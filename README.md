@@ -12,8 +12,7 @@ Dúvidas que esse projeto responde:
 
 ## Projetos
 
-1 - Análise e visualização de dados
-      - Exploramos informações do mundo real via Exploratory Data Analysis
+1 - Análise e visualização de dados --> Exploramos informações de filmes via Exploratory Data Analysis
 
 
 ## Observações
